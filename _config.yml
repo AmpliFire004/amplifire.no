@@ -3,7 +3,7 @@ description: My GitHub Pages site
 baseurl: "" # Leave this blank unless your site is in a subfolder
 url: "https://amplifire.no"
 
-theme: minima
+remote_theme: cotes2020/jekyll-theme-chirpy
 header_pages:
   - index.md
   - about.md
