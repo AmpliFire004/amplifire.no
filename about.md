@@ -6,20 +6,24 @@ permalink: /about/
 
 # About Me
 
-Welcome to my personal page! Here, you'll find a little bit about who I am and what I do.
+Hi there! I'm a systems administrator by day, and... well, also by night. Some call it passion — others call it forgetting what sunlight looks like during a big infra rebuild.
 
-## Who I Am
+I live and breathe all things IT. Whether it’s coding up something clever, deploying infrastructure like a digital architect, or just obsessively tweaking my home lab for the 47th time this month — I’m there for it.
 
-I am a passionate individual with a love for technology, creativity, and problem-solving. My journey has been shaped by curiosity and a drive to learn new things.
+## What I’m Into
 
-## What I Do
+- **Coding & Infra** – Python, YAML, Ansible, Docker, Proxmox... it's basically my love language.
+- **Sailing** – Nothing like escaping civilization on a boat, only to SSH into a server from the sea.
+- **Hiking & Skiing** – Because even sysadmins need mountains and gravity.
+- **Sailing (again)** – Yes, it’s that important.
 
-I specialize in [your specialization or profession], and I enjoy working on projects that challenge me to grow and innovate. When I'm not working, I love [your hobbies or interests].
+## Fun Fact
 
-## Get in Touch
+I turned my gaming PC into a Proxmox server.  
+Why? Because I realized spinning up VMs was more fun than spinning up in *Call of Duty*.
 
-Feel free to reach out if you'd like to connect or collaborate. You can find me on [your social media or contact information].
+## Let’s Talk!
 
-Thanks for stopping by!
+If you ever want to chat tech, go sailing, or combine the two (floating Kubernetes cluster, anyone?), feel free to reach out.
 
-```
+Thanks for stopping by — may your uptime be high and your pings be low 🛰️
