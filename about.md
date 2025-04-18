@@ -26,4 +26,4 @@ Why? Because I realized spinning up VMs was more fun than spinning up in *Call o
 
 If you ever want to chat tech, go sailing, or combine the two (floating Kubernetes cluster, anyone?), feel free to reach out.
 
-Thanks for stopping by — may your uptime be high and your pings be low 🛰️
+Thanks for stopping by — may your uptime be high and your pings be low.
