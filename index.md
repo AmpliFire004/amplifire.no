@@ -1,6 +1,6 @@
 ---
-layout: test
-title: home
+layout: home
+title: AmpliFire
 ---
 
 This is my site powered by Jekyll ✨
