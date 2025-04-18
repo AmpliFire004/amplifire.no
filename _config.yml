@@ -4,3 +4,6 @@ baseurl: "" # Leave this blank unless your site is in a subfolder
 url: "https://amplifire.no"
 
 theme: minima
+header_pages:
+  - index.md
+  - about.md
