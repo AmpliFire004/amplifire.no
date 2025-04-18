@@ -1,0 +1,6 @@
+title: Amplifire
+description: My GitHub Pages site
+baseurl: "" # Leave this blank unless your site is in a subfolder
+url: "https://amplifire.no"
+
+theme: minima
